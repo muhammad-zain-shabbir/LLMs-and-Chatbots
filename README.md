@@ -1,2 +1,3 @@
-# LLMs-and-Chatbots
-Simple Business Chatbot built with Python and Gradio for answering FAQs about pricing, services, contact info, and hours.  Lightweight FAQ chatbot using keyword matching and Gradio interface.  Interactive Python chatbot for business FAQs with an easy-to-use Gradio UI.
+This repository contains a simple yet effective business chatbot implemented in Python using Gradio. It answers common customer questions about pricing, services offered, contact details, and business hours by combining keyword matching and similarity scoring techniques. The chatbot runs locally or can be shared publicly via Gradio’s sharing feature, making it easy to deploy and test. Ideal for small businesses or developers looking to build a quick FAQ bot without complex AI models.
+
+A beginner-friendly Python chatbot project that demonstrates how to build an FAQ assistant using rule-based matching and Gradio’s web UI. The chatbot provides instant responses to typical business queries and can be easily extended with more intents and responses. Perfect for learning chatbot development or integrating a simple virtual assistant into your website or application.
