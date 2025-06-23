@@ -1,4 +1,4 @@
-# 💬 Simple Business Chatbot
+# 💬 Ordinary Business Simple Chatbot 
 
 ## 📌 Objective
 This project implements a simple rule-based chatbot using Python and Gradio. It helps users get quick answers about a business’s:
@@ -8,6 +8,7 @@ This project implements a simple rule-based chatbot using Python and Gradio. It 
 - Working hours
 
 The chatbot works without machine learning by combining **keyword matching** with **string similarity scoring** to determine the most relevant response.
+You can think of this project as a much smaller version of BERT being used and it has a lot of room for improvement.
 
 ---
 
@@ -50,10 +51,12 @@ Try these in the chatbot:
 ```bash
 pip install gradio pandas
 ```
+when you install the libraries, Please note that your code may not work so it is better for you to restart your Kernal if you're working on Jupyter Notebooks. 
+It may take a few seconds to load for you because we are using free resources so please bear with it for a few seconds. 
 
 ### 2. Run the Script
 ```bash
-python chatbot.py
+basicChatbotbusiness.ipynb 
 ```
 
 ### 3. Open the Chatbot
@@ -64,8 +67,11 @@ You’ll see a textbox to enter your questions and responses will appear instant
 
 ## 🗂️ Project Files
 ```
-├── chatbot.py       # Full chatbot source code
-├── README.md        # This file
+├── basicChatbotbusiness.ipynb           # Full chatbot source code
+├── basicChatbotbusinessreadme.md        # This file
+├── basicChatbotbusinesspreview.png      # Preview of the Chatbot
+├── README.md                            # Readme file for all similar projects
+
 ```
 
 ---
@@ -80,8 +86,10 @@ You’ll see a textbox to enter your questions and responses will appear instant
 
 ## 📬 Contact
 For suggestions or questions, please reach out to:  
-📧 **contact@business.com**
+📧 **zainshabbir87@gmail.com**
+   **(https://www.linkedin.com/in/muhammad-zain-shabbir-/)**
 
 ---
 
 *Created with ❤️ using Python and Gradio.*
+This is a very basic implementation for an idea that popped up for me as Ai is integrating at a massive scale in all industries, I wanted to make, test and see how customer-care and other fields would use the new emerging technologies and use them to make their work more efficient and accurate. I am not an expert so if you do find some flaws, Please go easy on me.
